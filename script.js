@@ -2,7 +2,7 @@
 const dalleEndpoint = 'https://api.openai.com/v1/images/generations';
 
 
-const defaultApiKey = "your-api-key";
+const defaultApiKey = "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";
 
 
 const reqButton = document.getElementById('button-request');
